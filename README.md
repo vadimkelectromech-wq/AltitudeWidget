@@ -1,1 +1,1 @@
-# AltitudeWidget
+# Altitude Widget
